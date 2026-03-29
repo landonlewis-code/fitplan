@@ -1,0 +1,25 @@
+{
+  "name": "FitPlan — Personal Trainer",
+  "short_name": "FitPlan",
+  "description": "Personal workout tracker with food log and calorie tracking",
+  "start_url": "/fitplan/index.html",
+  "scope": "/fitplan/",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#5856d6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/fitplan/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/fitplan/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
